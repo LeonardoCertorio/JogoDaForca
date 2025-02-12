@@ -1,0 +1,14 @@
+l:\portifolios\C#\bin\Debug\net9.0\C#.exe
+l:\portifolios\C#\bin\Debug\net9.0\C#.deps.json
+l:\portifolios\C#\bin\Debug\net9.0\C#.runtimeconfig.json
+l:\portifolios\C#\bin\Debug\net9.0\C#.dll
+l:\portifolios\C#\bin\Debug\net9.0\C#.pdb
+l:\portifolios\C#\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+l:\portifolios\C#\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+l:\portifolios\C#\obj\Debug\net9.0\C#.AssemblyInfo.cs
+l:\portifolios\C#\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
+l:\portifolios\C#\obj\Debug\net9.0\C#.dll
+l:\portifolios\C#\obj\Debug\net9.0\refint\C#.dll
+l:\portifolios\C#\obj\Debug\net9.0\C#.pdb
+l:\portifolios\C#\obj\Debug\net9.0\C#.genruntimeconfig.cache
+l:\portifolios\C#\obj\Debug\net9.0\ref\C#.dll
