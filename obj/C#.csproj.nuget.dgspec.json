@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\portifolios\\C#\\C#.csproj": {}
+    "l:\\Repositório\\Jogo da Forca - C#\\C#.csproj": {}
   },
   "projects": {
-    "L:\\portifolios\\C#\\C#.csproj": {
+    "l:\\Repositório\\Jogo da Forca - C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\portifolios\\C#\\C#.csproj",
+        "projectUniqueName": "l:\\Repositório\\Jogo da Forca - C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "L:\\portifolios\\C#\\C#.csproj",
+        "projectPath": "l:\\Repositório\\Jogo da Forca - C#\\C#.csproj",
         "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "L:\\portifolios\\C#\\obj\\",
+        "outputPath": "l:\\Repositório\\Jogo da Forca - C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config"
